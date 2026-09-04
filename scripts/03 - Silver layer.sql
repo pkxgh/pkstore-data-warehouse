@@ -1,4 +1,5 @@
 /*--
+
 In silver layer, we will be keeping same table formats and copy data, however we will clean the data thoroughly.
 Things we will be checking:
 1. Change data types
